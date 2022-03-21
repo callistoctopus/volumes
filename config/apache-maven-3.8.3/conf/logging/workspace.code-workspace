@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../../usr/lib/maven/apache-maven-3.8.3"
+		}
+	],
+	"settings": {}
+}
