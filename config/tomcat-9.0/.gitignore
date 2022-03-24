@@ -1,0 +1,3 @@
+/webapps/*
+
+!/webapps/index.html
